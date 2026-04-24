@@ -1,6 +1,6 @@
 # Hi, I'm Mahdi Mohammadi 👋
 
-> Teenage coder, strategist, and lifelong learner. I build **bots, UI/UX, and web systems**.
+> A teenage coder who builds **bots, UI/UX, and web systems**.
 
 ---
 
@@ -11,17 +11,12 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://docs.aiogram.dev/en/latest/" target="_blank"><img src="https://avatars.githubusercontent.com/u/56398996?s=200&v=4" alt="Aiogram" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
 
 ---
 
-## 🚀 Founder of Youit
- **Youit** – A platform to know yourself and others better
-
----
 
 ## 📈 GitHub Stats
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mx&show_icons=true&theme=radical&count_private=true)
