@@ -1,6 +1,6 @@
 # Hi, I'm Mahdi Mohammadi 👋
 
-> Teenage coder, strategist, and lifelong learner. I build **bots, AI projects, and web systems**.
+> Teenage coder, strategist, and lifelong learner. I build **bots, UI/UX, and web systems**.
 
 ---
 
@@ -18,11 +18,11 @@
 
 ---
 
-## 🚀 OWNER MOONCITY
- **MoonCity** – A telegram bot system with real-time API & database project 
+## 🚀 Founder of Youit
+ **Youit** – A platform to know yourself and others better
 
 ---
 
 ## 📈 GitHub Stats
-![Moxis Stream's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mx&show_icons=true&theme=radical&count_private=true)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mx&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Mx&layout=compact&theme=radical)
